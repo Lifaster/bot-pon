@@ -842,5 +842,5 @@ async def on_ready():
     await Bot.change_presence(status=discord.Status.online, activity=discord.Game(".phelp | Author: Lifaster#1699"))
     print("ready")
 
-#xUUtV7c2zDj16UrHdASY7JURG2Xx1fVll0L1b1Ga
-Bot.run('MTAyMzQzOTUxMzg2MDcwMjI3OA.GWG9lP.7HxlBJQXA9ewwGaQe4cWHgOVudH3_jj2797UpE')
+
+Bot.run('')
